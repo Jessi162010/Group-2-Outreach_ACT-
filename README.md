@@ -1,5 +1,3 @@
-# Group-2-Outreach_ACT-
-Outreach
 <!DOCTYPE html>
 <html lang="en">
 <head>
